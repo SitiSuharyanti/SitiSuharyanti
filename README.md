@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is **Siti Suharyanti** <br>
+
+I am a **student** majoring in **informatics** at Universitas AMIKOM Yogyakarta who is **interested** in **UI/UX** and web development especially **front-end**. <br>
+
+Now I'm taking an independent study at Dicoding to improve my skills to fit the existing job field. <br>
+
+If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/siti-suharyanti-1276b616a/).
 <!--
 **SitiSuharyanti/SitiSuharyanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
