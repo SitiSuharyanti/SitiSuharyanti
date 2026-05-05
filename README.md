@@ -1,17 +1,8 @@
-### Hi there! I'm Siti 👋
+Hi, I'm Siti Suharyanti 👋
 
-I am a **student** majoring in **informatics** at Universitas AMIKOM Yogyakarta who is **interested** in **UI/UX** and web development especially **front-end**. <br>
+Aspiring junior data analyst & data scientist based in Indonesia. I enjoy turning raw data into clear insights from SQL queries and dashboards to machine learning models.
 
-Now I'm taking an independent study at Dicoding to improve my skills to fit the existing job field. <br>
-
-If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/siti-suharyanti-1276b616a/).
-
-<p align="left">
-<a href="https://github.com/SitiSuharyanti">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SitiSuharyanti&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SitiSuharyanti&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+I'm currently open to junior Data Analyst or Data Scientist opportunities. Whether it's full-time or freelance, I'd love to hear from you! Find me on [Linkedin](https://www.linkedin.com/in/siti-suharyanti-1276b616a/).
 <!--
 **SitiSuharyanti/SitiSuharyanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
