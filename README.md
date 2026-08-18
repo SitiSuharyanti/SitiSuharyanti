@@ -40,11 +40,3 @@ Find me on [Linkedin](https://www.linkedin.com/in/siti-suharyanti-1276b616a/).</
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
-### GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SitiSuharyanti&show_icons=true&theme=default&count_private=true" alt="Siti's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SitiSuharyanti&layout=compact&theme=default" alt="Top languages" height="165"/>
-</p>
